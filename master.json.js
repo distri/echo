@@ -9,7 +9,7 @@ window["distri/echo:master"]({
     "README.md": {
       "path": "README.md",
       "mode": "100644",
-      "content": "echo\n====\n\nA sample echo server sample.\n",
+      "content": "Echo\n====\n\nA sample echo server sample.\n",
       "type": "blob"
     },
     "package.json": {

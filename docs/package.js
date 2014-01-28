@@ -36,7 +36,7 @@
     ".travis.yml": {
       "path": ".travis.yml",
       "mode": "100644",
-      "content": "deploy:\n  provider: heroku\n  api_key:\n    secure: RTMdJJWWTwgDdcmXxys5d3Gix7LMvA2hIRJM1jaELARvEDnJpQxo9OcNy/4AT0uKjLKmPHj8QXdy1G0NnszvZKknSS0NQkqV42ajb4r3fuEeDeEEkS7S0ZA/pQz8w7X56Qv1zjFB8o72hSvFded\n9H9trTHkCBeEyL8D5JXOu+lc=\n  app:\n    distri-heroku: gh-pages\n  on:\n    repo: distri/echo\nbranches:\n  only: gh-pages\n",
+      "content": "deploy:\n  provider: heroku\n  api_key:\n    secure: RTMdJJWWTwgDdcmXxys5d3Gix7LMvA2hIRJM1jaELARvEDnJpQxo9OcNy/4AT0uKjLKmPHj8QXdy1G0NnszvZKknSS0NQkqV42ajb4r3fuEeDeEEkS7S0ZA/pQz8w7X56Qv1zjFB8o72hSvFded9H9trTHkCBeEyL8D5JXOu+lc=\n  app:\n    distri-heroku: gh-pages\n  on:\n    repo: distri/echo\nbranches:\n  only: gh-pages\n",
       "type": "blob"
     }
   },

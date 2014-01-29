@@ -6,6 +6,6 @@ express = require('express')
 app = express()
 
 app.get '/', (req, res) ->
-  res.send('hello world')
+  res.send req.query
 
 app.listen(PORT)

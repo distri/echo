@@ -1,7 +1,7 @@
 deploy:
   provider: heroku
   api_key:
-    secure: RTMdJJWWTwgDdcmXxys5d3Gix7LMvA2hIRJM1jaELARvEDnJpQxo9OcNy/4AT0uKjLKmPHj8QXdy1G0NnszvZKknSS0NQkqV42ajb4r3fuEeDeEEkS7S0ZA/pQz8w7X56Qv1zjFB8o72hSvFded9H9trTHkCBeEyL8D5JXOu+lc=
+    secure: DZ3bSYdNKRhV0yYZYROy6jJxZkivx1wgeA5WfYvLrm8e9HlQ2IQTAVKHr+Niu/bc3ANXaH0mwN/u/Py56yieFf6lnNG8dZC1kQUS2PqvZPOyov/VNW372m8hKzoNJE7J7Agfco1NYLpv8C1u4RgesjJa8le9scylKie+rHwfgTM=
   app:
     master: distri-echo
   on:
